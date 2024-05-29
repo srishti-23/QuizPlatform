@@ -3,7 +3,7 @@ QuizPlatform is a dynamic and engaging web application designed to create, manag
 Built with the robust React framework and styled with Material-UI, this platform offers a seamless user experience.
 Redux Thunk is employed to manage asynchronous actions and state management effectively.
 
-##########
+#
 Features
 1)Home Page: The landing page welcoming users with an overview and easy navigation.
 2)Create New Quiz: A user-friendly interface to design and publish new quizzes.
@@ -11,7 +11,7 @@ Features
 4)Play Quiz: An interactive and engaging quiz-playing experience for users.
 5)Navbar:Navbar component provides navigation to  all the pages.
 
-##########
+#
 Technologies Used
 React: A JavaScript library for building user interfaces.
 Material-UI: A popular React UI framework for sleek and responsive design.
