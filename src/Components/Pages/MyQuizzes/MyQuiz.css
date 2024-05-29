@@ -14,7 +14,7 @@ html, body {
   display: flex;
   justify-content: center;
   border: 1px solid rgb(16, 16, 16);
- padding: 5px;
+  padding: 5px;
   color:black
 }
 .all-quiz-container {
@@ -53,6 +53,7 @@ html, body {
   padding: 10px;
   margin-top: 10px;
   background-color: rgb(18, 18, 18);
+  color: #fff;
 }
 .deleteouter {
   display: flex;
@@ -99,7 +100,7 @@ html, body {
   padding-bottom: 10px;
 }
 .whole{
-    /* background-image: url(../../Images/myquizbg.jpg); */
+
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
